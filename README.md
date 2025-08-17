@@ -1,4 +1,4 @@
-# From NLTK to RoBERTa: A Comparative Analysis of Sentiment Analysis Techniques for Amazon Reviews
+# Sentiment Analysis of Amazon Reviews: NLTK vs RoBERTa
 
 This project explores and compares two major sentiment analysis approaches on Amazon fine food reviews: a traditional rule-based model (VADER) and a modern transformer-based model (RoBERTa). The goal is to understand their performance, strengths, and limitations in detecting sentiment, especially in nuanced or sarcastic contexts.
 
